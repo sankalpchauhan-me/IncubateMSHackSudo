@@ -1,6 +1,7 @@
 # IncubateMSHackSudo
 
-
+For MS HACK Incubate Hackathon by team Sudo.
+A Campus Ambassodor Platform for IncubateIND
 IncubateIND
 
 IncubateIND needs to build a Campus Ambassador Program for our representatives in colleges/ institutes across India so we can build the robots ecosystem.
@@ -11,4 +12,11 @@ IncubateIND needs to build a Campus Ambassador Program for our representatives i
 
 Note: Messaging, accounts, dashboards, rich media content support are some of the key requirements to be enabled on the platform.
 IncubateIND is India’s leading platform to create Hackathons and tech innovation events to generate pathbreaking ideas for the industry.
+
+
+Final State of the app (gif):-
+
+ <p align="center">
+    <img src="assets/final.gif" alt="app"/> <br>
+    </p>
 
