@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "506360099737",
+    "firebase_url": "https://campusconnect-41e2b.firebaseio.com",
+    "project_id": "campusconnect-41e2b",
+    "storage_bucket": "campusconnect-41e2b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506360099737:android:91e94fd9291e9ac6",
+        "android_client_info": {
+          "package_name": "com.rozdoum.socialcomponents"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "506360099737-2ubm87qulmlleok6b8heu88qehjosqco.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rozdoum.socialcomponents",
+            "certificate_hash": "be7673cd2a031a1f0eaa5948a71c35e4814f8fe6"
+          }
+        },
+        {
+          "client_id": "506360099737-rkhn7gg4obv15pqu82e7pqcvb8l3eht8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeWxa_JyFno30BQX9_U4sx3I4X1dpjYXE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "506360099737-rkhn7gg4obv15pqu82e7pqcvb8l3eht8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
