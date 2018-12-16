@@ -1,5 +1,7 @@
 # IncubateMSHackSudo
 
+[Link to PPT](https://github.com/sankalpchauhan-me/IncubateMSHackSudo/blob/master/SudoPPT.pptx)
+
 For MS HACK Incubate Hackathon by team Sudo.
 A Campus Ambassodor Platform for IncubateIND
 IncubateIND
