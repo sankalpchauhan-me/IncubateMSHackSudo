@@ -2,7 +2,7 @@
 ![Android](https://img.shields.io/badge/platform-Android-green.svg)
 ![Build](https://img.shields.io/badge/build-passing-green.svg)
 ![Dependencies](https://img.shields.io/hackage-deps/v/lens.svg)
-![Version](https://img.shields.io/badge/agrocartt-v1.0.0--pre--alpha-orange.svg)
+![Version](https://img.shields.io/badge/release-v1.1.0--beta0001-yellow.svg)
 ![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)
 
 
