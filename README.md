@@ -1,4 +1,10 @@
 # IncubateMSHackSudo
+![Android](https://img.shields.io/badge/platform-Android-green.svg)
+![Build](https://img.shields.io/badge/build-passing-green.svg)
+![Dependencies](https://img.shields.io/hackage-deps/v/lens.svg)
+![Version](https://img.shields.io/badge/agrocartt-v1.0.0--pre--alpha-orange.svg)
+![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)
+
 
 [Link to PPT](https://github.com/sankalpchauhan-me/IncubateMSHackSudo/blob/master/SudoPPT.pptx)
 
