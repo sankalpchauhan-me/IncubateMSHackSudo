@@ -22,7 +22,7 @@ Note: Messaging, accounts, dashboards, rich media content support are some of th
 IncubateIND is India’s leading platform to create Hackathons and tech innovation events to generate pathbreaking ideas for the industry.
 
 
-Final State of the app (gif):-
+Final State of the app ( gif ):-
 
  <p align="center">
     <img src="assets/final.gif" alt="app"/> <br>
